@@ -1,3 +1,3 @@
 <?
-echo "mencoba ini ku edit udah"
+echo "mencoba ini ku edit udah lagii"
 ?>
